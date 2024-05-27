@@ -2,9 +2,6 @@
 
 I'm a techno manager and software engineer with experience in c++ and advance python. I specialize in linux thinclient and linux app and have a passion for python AI , android and gaming projects.
 
-## 🚀 Projects
-- [Project 1](link to project) - Brief description of what this project does.
-- [Project 2](link to project) - Brief description of what this project does.
 
 ## 🔧 Technologies & Tools
 - Programming Languages: c++ / python
