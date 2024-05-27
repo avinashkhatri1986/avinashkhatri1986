@@ -1,16 +1,18 @@
-## Hi there 👋
+# Hi there, I'm Avinash Khatri 👋
 
-<!--
-**avinashkhatri1986/avinashkhatri1986** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a techno manager and software engineer with experience in c++ and advance python. I specialize in linux thinclient and linux app and have a passion for python AI , android and gaming projects.
 
-Here are some ideas to get you started:
+## 🚀 Projects
+- [Project 1](link to project) - Brief description of what this project does.
+- [Project 2](link to project) - Brief description of what this project does.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔧 Technologies & Tools
+- Programming Languages: c++ / python
+- Frameworks: Ephiphany/WebkitGTK, RobotFramework(pabot), GCC, Makefile
+- Tools: Fiddler, Teamcity, Jenkins etc.
+
+## 📫 Contact Me
+- [LinkedIn](https://www.linkedin.com/in/avinash-khatri-4018b235/)
+- [Twitter](Coming soon)
+
+Feel free to reach out if you want to collaborate on a project or just chat about tech!
